@@ -15,7 +15,7 @@ This repository presents our innovative approach to **Quantum Random Number Gene
   - Employs the **Blum Blum Shub (BBS)** algorithm, a computationally secure pseudorandom number generator.
   - Uses **10,000 shots** per experiment to ensure statistically significant random number outputs.
 
-- **Applications of Quantum Random Numbers:**
+- **Applications of Quantum Random Numbers we implemented:**
   1. **Artwork Generation:**  
      - Generates unique and unpredictable quantum-inspired patterns, showcasing the artistic potential of quantum computing.  
   2. **Pi Estimation via Monte Carlo Simulation:**  
