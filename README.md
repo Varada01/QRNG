@@ -17,7 +17,7 @@ This repository presents our innovative approach to **Quantum Random Number Gene
      - Generates unique and unpredictable quantum-inspired patterns, showcasing the artistic potential of quantum computing.  
   2. **Pi Estimation via Monte Carlo Simulation:**  
      - Uses quantum randomness to estimate the value of Pi, demonstrating the intersection of quantum principles and classical computational methods.
-
+We also implement random number generation using Blum,Blum Shub algorithm.
 ## **Why This Project Stands Out**
 - Integrates advanced Qiskit modules for randomness generation, optimization, and visualization.  
 - Addresses challenges like bias reduction and correlation handling in random sequence generation.  
