@@ -37,10 +37,7 @@ This repository presents our innovative approach to **Quantum Random Number Gene
    git clone <repository-url>
    cd <repository-name>
    ```
-2. Install the required dependencies using:  
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 3. Explore the Jupyter Notebook for step-by-step implementation.  
 
 ## **Future Directions**
