@@ -1,5 +1,5 @@
 # QRNG
-Here’s a professional and concise description for your GitHub repository:
+
 
 ---
 
