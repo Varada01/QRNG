@@ -9,7 +9,7 @@ This repository presents our innovative approach to **Quantum Random Number Gene
 ---
 
 ## **Key Features**
-- **Quantum Random Number Generation:**
+- **Quantum Random Number Generation we implemented:**
   - Combines **input state preparation** and **state series measurement** for robust randomness.
   - Implements techniques to reduce bias and mitigate classical correlations.  
   - Employs the **Blum Blum Shub (BBS)** algorithm, a computationally secure pseudorandom number generator.
