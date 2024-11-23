@@ -1,4 +1,4 @@
-Here’s the updated version with the **Blum Blum Shub algorithm** and the use of **10,000 shots** included:
+
 
 ---
 
